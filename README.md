@@ -4,4 +4,4 @@
 * Sungmo Koo
 * Sean Pasamonte 
 
-##[Click to read about our business](https://github.com/androon/CS230/wiki).
+[Click to read about our business](https://github.com/androon/CS230/wiki).
