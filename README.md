@@ -4,4 +4,4 @@
 * Sungmo Koo
 * Sean Pasamonte 
 
-[View Wiki]([https://github.com/androon/CS230/wiki](https://github.com/androon/CS230/wiki/Item-1:-Ethical-Business-Plan)).
+[View Wiki](https://github.com/androon/CS230/wiki/Item-1:-Ethical-Business-Plan).
